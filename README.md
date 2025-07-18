@@ -23,5 +23,5 @@ stopwatch-app
 - style.css        # CSS file for styling and layout
 - script.js        # JavaScript file containing stopwatch logic
 - README.md        # Documentation for the project
-- 
-<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/33997ad5-0668-4d05-a739-5b515bf71970" />
+
+
