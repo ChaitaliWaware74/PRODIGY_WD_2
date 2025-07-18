@@ -17,9 +17,9 @@ This is a simple and interactive stopwatch web application built using HTML, CSS
 
 ## File Structure
 
-stopwatch-app/
-│
-├── index.html       # Main HTML file with structure and elements
-├── style.css        # CSS file for styling and layout
-├── script.js        # JavaScript file containing stopwatch logic
-└── README.md        # Documentation for the project
+stopwatch-app
+
+- index.html       # Main HTML file with structure and elements
+- style.css        # CSS file for styling and layout
+- script.js        # JavaScript file containing stopwatch logic
+- README.md        # Documentation for the project
